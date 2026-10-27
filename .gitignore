@@ -1,0 +1,7 @@
+# Local configuration and secrets
+/config/config.php
+.env
+*.log
+.DS_Store
+Thumbs.db
+/vendor/
